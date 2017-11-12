@@ -22,6 +22,6 @@ BoardMember.prototype.releasePressStatement = function(){
 }
 
 BoardMember.prototype.sayHi = function(){
-    returns `You will see great things from Scuber.`
+    returns `Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.`
 }
 
